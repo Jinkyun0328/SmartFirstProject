@@ -16,3 +16,4 @@ DB를 할당받아 JDBC로 자바와 데이터베이스를 연동했다.
 송희주 : DB에 데이터를 전송하기 위한 DAO MODEL 설계
 최진균 : View 모델 설계 및 유스케이스 코드 구현
 
+![image1](https://user-images.githubusercontent.com/123911778/268800528-38c6d2e5-d605-4adf-9c52-7f5d245de6a2.jpg)
