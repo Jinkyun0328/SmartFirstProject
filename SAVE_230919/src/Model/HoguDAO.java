@@ -136,7 +136,7 @@ public class HoguDAO {
 		try {
 			getConn();
 
-			String sql = "UPDATE CASINO SET MONEY = MONEY+ ?  WHERE ID = ? ";
+			String sql = "UPDATE CASINO SET MONEY = ?  WHERE ID = ? ";
 			psmt = conn.prepareStatement(sql);
 			psmt.setInt(1, dto.getMoney());
 			psmt.setString(2, dto.getId());
