@@ -15,5 +15,5 @@
 송희주 : 룰렛 GUI 자료 수집             
 최진균 : 룰렛 출력문 코드 작성        
 
-
-
+![images1](https://user-images.githubusercontent.com/123911778/269224489-b9df6a91-1e46-4ce9-b1c8-9942bf506362.PNG)
+      
