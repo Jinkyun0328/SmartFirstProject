@@ -1,18 +1,4 @@
 # SmartFirstProject
-### 데이터
-- FINAL
-  - exe파일, 음악파일, 산출물(PPT, 유스케이스 다이어스램, 시스템 설계도, 요구사항 정의서, 테이블 명세서 등) 등을 저장
-    
-- SAVE
-  - 날짜별로 프로젝트 저장
- 
-- Development Log
-  - 개발일지 저장
- 
-- project
-  - 최종 자바 프로젝트 저장
-
-
 ## 프로젝트 주제
 ![images1](https://user-images.githubusercontent.com/123911778/269862986-61a7269d-3862-4a1d-80da-0757a6433b28.jpg)
 ![images2](https://user-images.githubusercontent.com/123911778/269863014-784e6f39-6113-4287-811c-f3ab1f480499.jpg)
@@ -32,5 +18,21 @@
 ## 테스트
 ![images8](https://user-images.githubusercontent.com/123911778/269863053-83df96d8-2cad-4137-b125-5c23952a8a48.jpg)
 
+## 기타
+### 참여인원
+- 팀장 : 김성민
+- 부팀장 : 강채린
+- 팀원 : 박 준, 송희주, 최진균
 
-
+### 데이터
+- FINAL
+  - exe파일, 음악파일, 산출물(PPT, 유스케이스 다이어스램, 시스템 설계도, 요구사항 정의서, 테이블 명세서 등) 등을 저장
+    
+- SAVE
+  - 날짜별로 프로젝트 저장
+ 
+- Development Log
+  - 개발일지 저장
+ 
+- project
+  - 최종 자바 프로젝트 저장
