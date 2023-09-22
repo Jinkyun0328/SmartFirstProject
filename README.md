@@ -18,4 +18,13 @@
 ## 테스트
 ![images8](https://user-images.githubusercontent.com/123911778/269863053-83df96d8-2cad-4137-b125-5c23952a8a48.jpg)
 
+### 데이터
+- FINAL
+  - exe파일, 음악파일, 산출물 등을 저장
+    
+- SAVE
+  - 날짜별로 프로젝트와 개발일지를 저장
+ 
+- 
+
 
