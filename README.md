@@ -1,8 +1,10 @@
 # SmartFirstProject
-## 프로젝트 주제
+## 프로젝트 개요
 ![images1](https://user-images.githubusercontent.com/123911778/269862986-61a7269d-3862-4a1d-80da-0757a6433b28.jpg)
-![images2](https://user-images.githubusercontent.com/123911778/269863014-784e6f39-6113-4287-811c-f3ab1f480499.jpg)
-
+주제 : 데이터베이스를 활용한 카지노 게임
+- 회원가입, 로그인, 회원탈퇴 서비스 제공
+- 돈을 기준으로 한 개인조회와 전체조회 서비스 제공
+- 블랙잭, 룰렛, 슬롯머신의 게임 서비스 제공
 
 ## 개발환경
 ![images3](https://user-images.githubusercontent.com/123911778/269863034-9d6a25e0-5e4d-4a2c-86b2-ab86700d6af7.jpg)
