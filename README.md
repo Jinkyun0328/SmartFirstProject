@@ -7,10 +7,14 @@
 - 블랙잭, 룰렛, 슬롯머신의 게임 서비스 제공
 
 ## 개발환경
-머리1 | 머리2 | 머리3 | 뚝배기
----- | ---- | ---- | ----
-다리 | 다리1 | 다리2 | 뚝배기깹니다
-금 | 의 | 환 | 향
+분류 | 설명
+---- | ----
+운영체제 | Windows 10
+버전 관리 시스템 | Git, Github
+개발 도구 | Eclipse IDE (2023-06), JavaSE-1.8
+개발언어 | Java, SQL
+데이터베이스 | ORACLE 11
+하드웨어 |  NVIDIA GeForce RTX 2070, Intel(R) Core(TM) i7-10700 CPU, RAM 16.0GB
 
 ## 유스케이스 다이어그램
 ![images4](https://user-images.githubusercontent.com/123911778/269863040-2498c94d-424a-4464-9faf-f418a1549561.jpg)
