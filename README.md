@@ -16,9 +16,6 @@
 데이터베이스 | ORACLE 11
 하드웨어 |  NVIDIA GeForce RTX 2070, Intel(R) Core(TM) i7-10700 CPU, RAM 16.0GB
 
-## 유스케이스 다이어그램
-![images4](https://user-images.githubusercontent.com/123911778/269863040-2498c94d-424a-4464-9faf-f418a1549561.jpg)
-
 ## 시스템 설계도
 ![images5](https://user-images.githubusercontent.com/123911778/269863042-80e6fcc7-9523-4a8c-82ff-9cc1a3493f1c.jpg)
 ![images6](https://user-images.githubusercontent.com/123911778/269863045-ba8527fa-dc0d-4dee-8a95-5ddf5f3b8fb8.jpg)
