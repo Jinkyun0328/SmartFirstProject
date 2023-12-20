@@ -11,7 +11,6 @@
 ---- | ---- | ---- | ----
 다리 | 다리1 | 다리2 | 뚝배기깹니다
 금 | 의 | 환 | 향
-![images3](https://user-images.githubusercontent.com/123911778/269863034-9d6a25e0-5e4d-4a2c-86b2-ab86700d6af7.jpg)
 
 ## 유스케이스 다이어그램
 ![images4](https://user-images.githubusercontent.com/123911778/269863040-2498c94d-424a-4464-9faf-f418a1549561.jpg)
